@@ -1,6 +1,6 @@
 - 👋 Hi,
 - 👀 I’m interested in Javascript.
-- 🌱 I’m currently learning GitHUB
+- 🌱 I’m currently learning GitHUB.
 
 
 
